@@ -2,7 +2,7 @@
 guiding tour
  
       
-<palign="center"><img alt=""src="http://www.newsofrwanda.com/wp-content/uploads/2016/09/Kivu-Lake.jpg"></p>
+<p align="left"><img alt="Tour" src="http://www.newsofrwanda.com/wp-content/uploads/2016/09/Kivu-Lake.jpg"></p>
 
 # Introduction
 HOPETOUR is an website designed to guide the tourist who want to visit some places in africa by directing them to secured and niceplaces to visit and The main reason for this website is to allow people to see the wonders of Africa.It is going to contain information  About wonders of and hotel for their sleep over.This site will be in English for now and it will be upgraded with time.
