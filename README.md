@@ -41,6 +41,6 @@ HOPETOUR is an website designed to guide the tourist who want to visit some plac
 * Week 15 : Final Release
 
 <p align="center">
->><a href="https://ayiguhaye.github.io/hope-tour/">Home page</a><<<br>
+>><a href="https://ayiguhaye-hope-tour.glitch.me/">Home page</a><<<br>
 <br>
 
