@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "guiding tour",
   "main": "app.js",
-  
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon"
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -34,5 +33,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
