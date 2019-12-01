@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "guiding tour",
   "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
@@ -21,8 +24,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
-    "dotenv": "^8.2.0",
-    "ejs": "^3.0.1",
+    "ejs": "^2.7.4",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.0",
@@ -33,8 +35,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
-  },
-  "directories": {
-    "lib": "lib"
   }
 }
