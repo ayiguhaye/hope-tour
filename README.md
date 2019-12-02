@@ -37,7 +37,7 @@ HOPETOUR is an website designed to guide the tourist who want to visit some plac
 * Week 11 : Backend Optimization
 * Week 12 : Frontend Optimization
 * Week 13 : Backend Debugging and Stress testing
-* Week 14 : Upgrade Ops based on Teacher's Input
+* Week 14 : Upgrade Ops based on Teacher's  Input
 * Week 15 : Final Release
 
 <p align="center">
