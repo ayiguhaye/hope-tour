@@ -30,17 +30,10 @@ HOPETOUR is an website designed to guide the tourist who want to visit some plac
 * favorable hotel
 * shoping sites
 
-## Plan 
-* Week 8 : Github update 
-* Week 9 : Setting home pages and css
-* Week 10 : Completion of Front-End
-* Week 11 : Backend Optimization
-* Week 12 : Frontend Optimization
-* Week 13 : Backend Debugging and Stress testing
-* Week 14 : Upgrade Ops based on Teacher's  Input
-* Week 15 : Final Release
+## A well finished project in j2ee
+* completed
 
 <p align="center">
->><a href="https://ayiguhaye-hope-tour.glitch.me/">Home page</a><<<br>
+>><a href="https://ayiguhaye-hope-tour-1.glitch.me/">Home page</a><<<br>
 <br>
 
